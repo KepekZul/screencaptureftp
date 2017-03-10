@@ -8,7 +8,7 @@ namespace screen_capture_transfer
     {
         static public Bitmap getScreenShot()
         {
-            Bitmap captureBitmap = new Bitmap(1024, 768, PixelFormat.Format32bppArgb);
+            Bitmap captureBitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height, PixelFormat.Format32bppArgb);
 
             //Bitmap captureBitmap = new Bitmap(int width, int height, PixelFormat);
             //Creating a Rectangle object which will  
