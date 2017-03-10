@@ -1,0 +1,5 @@
+c:\users\kevin zulkarnain\documents\visual studio 2015\Projects\screen capture client\screen capture client\bin\Debug\screen capture client.exe.config
+c:\users\kevin zulkarnain\documents\visual studio 2015\Projects\screen capture client\screen capture client\bin\Debug\screen capture client.exe
+c:\users\kevin zulkarnain\documents\visual studio 2015\Projects\screen capture client\screen capture client\bin\Debug\screen capture client.pdb
+c:\users\kevin zulkarnain\documents\visual studio 2015\Projects\screen capture client\screen capture client\obj\Debug\screen capture client.exe
+c:\users\kevin zulkarnain\documents\visual studio 2015\Projects\screen capture client\screen capture client\obj\Debug\screen capture client.pdb
